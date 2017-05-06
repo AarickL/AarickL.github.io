@@ -1,8 +1,9 @@
 <meta charset="utf-8">
 
+  <title>Aarick's Portfolio</title>
+
   <link rel="short icon" href="lib/images/devlogo.ico"/>
 
-  <title>Aarick's Portfolio</title>
 
       <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
