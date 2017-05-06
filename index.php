@@ -1,19 +1,24 @@
+<!--
+    Author Aarick Jaymes Lameman
+
+    LamemanAarick@gmail.com
+
+    Aarick's Portfolio
+
+    Date: May 6, 2017
+
+    "Hello my fellow web developer's in inspect mode lol.
+    Thanks for checking out the source code for this website."
+-->
+
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
 
-          <!-- Latest compiled and minified CSS -->
-      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
-        crossorigin="anonymous">
+    <?php require_once("lib/head-utils.php");?>
+    
+    <link rel="short icon" href="lib/images/devlogo.ico"/>
 
-        <!-- Latest compiled and minified JavaScript -->
-      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
-        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
-        crossorigin="anonymous"></script>
-
-    <title>Aarick's Portfolio</title>
   </head>
   <body>
 
