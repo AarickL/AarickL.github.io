@@ -1,3 +1,14 @@
 h4 {
   color: white;
+  font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+
+footer {
+    min-height:8vh;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    background-color: black;
 }
