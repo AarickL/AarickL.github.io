@@ -1,54 +1,20 @@
-<!--
-    Author Aarick Jaymes Lameman
-
-    LamemanAarick@gmail.com
-
-    Aarick's Portfolio
-
-    Date: May 6, 2017
-
-    "Hello my fellow web developer's in inspect mode lol.
-    Thanks for checking out the source code for this website."
--->
-
-
-<!--
-	Author Aarick Lameman
-
-	LamemanAarick@gmail.com
-
-	Aarick's WebDev
-
-	Date: August 16, 2016
--->
-
 <!DOCTYPE HTML>
-
+<!--
+	Strongly Typed by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
-
 	<head>
-
-		<title>Aarick Jaymes</title>
-
+		<title>Right Sidebar - Strongly Typed by HTML5 UP</title>
 		<meta charset="utf-8" />
-
-		<?php require_once("lib/head-utils.php");?>
-
+		
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-
-		<link rel="stylesheet" href="assets/css/style.css" />
-
-		<link rel="short icon" href="images/devLogo.ico"/>
-
-
 	</head>
-
-	<body class="homepage">
-
+	<body class="right-sidebar">
 		<div id="page-wrapper">
 
 			<!-- Header -->
@@ -56,123 +22,36 @@
 					<div id="header" class="container">
 
 						<!-- Logo -->
-							<h1 id="logo">
-
-								<a href="index.php"> Aarick Jaymes
-
-								</a>
-
-								<img class="img-responsive img-circle displayed pic" src="images/bluffLook1.jpg">
-
-							</h1>
-
-							<p>Ya'da'teeh shik'ei doo' shidine'e , Shi ei Aarick Jaymes Lameman yineshiye'.
-								She ei Nooda'i Dine'e Tachiinii' doone'e nishli', aadoo' Tl'aa'shchii'nii' bashishchiin.
-								Aadoo' Tl'izi'lani dashicheii, doo' Kin'lichii'nii dashinali.
-								Shima' ei Madeline Sampson holye'. Shizhe'e ei Aaron Lameman Sr. holye.
-								Shimasani' doo' shicheii' ei Betty doo' Jack Rock holye'. Naadiin asha'la shi'anahey.
-								Liba'dezahaa, Dzil Dil'oi, Bluff, Utah dee nasha. Awita' dine' hastiin nishli'.
-								Hello welcome to my porfolio page, it is a website about myself, my hobbies, my education,
-								& my experience.</p>
+							<h1 id="logo"><a href="index.html">Strongly Typed</a></h1>
+							<p>A responsive HTML5 site template. Manufactured by HTML5 UP.</p>
 
 						<!-- Nav -->
 							<nav id="nav">
 								<ul>
-									<li><a class="icon fa-home" href="index.php"><span>Introduction</span></a></li>
+									<li><a class="icon fa-home" href="index.html"><span>Introduction</span></a></li>
 									<li>
-										<a href="#" class="icon fa-globe"><span>Hobbies</span></a>
-
+										<a href="#" class="icon fa-bar-chart-o"><span>Dropdown</span></a>
 										<ul>
-											<li><a class="icon fa-dribbble" href="basketball.php"> Basketball</a></li>
-											<li><a class="fa fa-code" href="code.php"> Computer Coding</a></li>
+											<li><a href="#">Lorem ipsum dolor</a></li>
+											<li><a href="#">Magna phasellus</a></li>
+											<li><a href="#">Etiam dolore nisl</a></li>
 											<li>
-												<a class="icon fa-music" href="musician.php"> Musician</a>
+												<a href="#">Phasellus consequat</a>
 												<ul>
-													<li><a class="icon fa-magic" href="flute.php"> Flute</a></li>
-													<li><a class="fa fa-bullseye" href="drums.php"> Drums</a></li>
-													<li><a class="fa fa-microphone" href="vocalist.php"> Vocalist</a></li>
+													<li><a href="#">Magna phasellus</a></li>
+													<li><a href="#">Etiam dolore nisl</a></li>
+													<li><a href="#">Phasellus consequat</a></li>
 												</ul>
 											</li>
-											<li><a class="icon fa-gg" href="football.php"> Football</a></li>
-											<li><a class="icon fa-gamepad" href="videogames.php"> Video Games</a></li>
-											<li><a class="icon fa-male" href="hiking.php"> Hiking</a></li>
-
-											<li><a href="#"></a></li>
+											<li><a href="#">Veroeros feugiat</a></li>
 										</ul>
 									</li>
-
-									<li><a class="icon fa-graduation-cap" href="olta'.php"><span>Olta'/Education</span></a></li>
-									<li><a class="icon fa-briefcase" href="naalnish.php"><span>Naalnish/Experience</span></a></li>
-									<li><a class="icon fa-info-circle" href="contact.php"><span>Contact</span></a></li>
+									<li><a class="icon fa-cog" href="left-sidebar.html"><span>Left Sidebar</span></a></li>
+									<li><a class="icon fa-retweet" href="right-sidebar.html"><span>Right Sidebar</span></a></li>
+									<li><a class="icon fa-sitemap" href="no-sidebar.html"><span>No Sidebar</span></a></li>
 								</ul>
 							</nav>
 
-					</div>
-				</div>
-
-			<!-- Features -->
-				<div id="features-wrapper">
-					<section id="features" class="container">
-						<header>
-							<h2>Ladies & Gentlemen, behold! This is <strong>Strongly Typed</strong>!</h2>
-						</header>
-						<div class="row">
-							<div class="4u 12u(mobile)">
-
-								<!-- Feature -->
-									<section>
-										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
-										<header>
-											<h3>Okay, so what is this?</h3>
-										</header>
-										<p>This is <strong>Strongly Typed</strong>, a free, fully responsive site template
-										by <a href="http://html5up.net">HTML5 UP</a>. Free for personal and commercial use under the
-										<a href="http://html5up.net/license">CCA 3.0 license</a>.</p>
-									</section>
-
-							</div>
-							<div class="4u 12u(mobile)">
-
-								<!-- Feature -->
-									<section>
-										<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
-										<header>
-											<h3>Nice! What is HTML5 UP?</h3>
-										</header>
-										<p><a href="http://html5up.net">HTML5 UP</a> is a side project of <a href="http://twitter.com/ajlkn">AJ’s</a> (= me).
-										I started it as a way to both test my <strong>skel</strong> framework and sharpen up my coding
-										and design skills a bit.</p>
-									</section>
-
-							</div>
-							<div class="4u 12u(mobile)">
-
-								<!-- Feature -->
-									<section>
-										<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
-										<header>
-											<h3>Skel? What's that?</h3>
-										</header>
-										<p><strong>Skel</strong> is a lightweight framework for building responsive
-										sites and apps. All of my stuff at <a href="http://html5up.net">HTML5 UP</a> (including this
-										one) are built on this framework.</p>
-									</section>
-
-							</div>
-						</div>
-						<ul class="actions">
-							<li><a href="#" class="button icon fa-file">Tell Me More</a></li>
-						</ul>
-					</section>
-				</div>
-
-			<!-- Banner -->
-				<div id="banner-wrapper">
-					<div class="inner">
-						<section id="banner" class="container">
-							<p>Use this space for <strong>profound thoughts</strong>.<br />
-							Or an enormous ad. Whatever.</p>
-						</section>
 					</div>
 				</div>
 
@@ -187,38 +66,14 @@
 									<!-- Post -->
 										<article class="box post">
 											<header>
-												<h2><a href="#">I don’t want to say <strong>it’s the aliens</strong> ...<br />
-												but it’s the aliens.</a></h2>
+												<h2>Behold! This is the <strong>right sidebar</strong> layout<br />
+												with a sidebar on the right!</h2>
 											</header>
-											<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
-											<h3>I mean isn't it possible?</h3>
+											<span class="image featured"><img src="images/pic04.jpg" alt="" /></span>
+											<h3>Right is also not left</h3>
 											<p>Phasellus laoreet massa id justo mattis pharetra. Fusce suscipit
 											ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris
 											sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada
-											in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat
-											magna tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros
-											consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
-											justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet
-											mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique.
-											Curabitur leo nibh, rutrum eu malesuada in, tristique at erat.</p>
-											<ul class="actions">
-												<li><a href="#" class="button icon fa-file">Continue Reading</a></li>
-											</ul>
-										</article>
-
-									<!-- Post -->
-										<article class="box post">
-											<header>
-												<h2><a href="#">By the way, many thanks to <strong>regularjane</strong>
-												for these awesome demo photos</a></h2>
-											</header>
-											<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
-											<h3>You should probably check out her work</h3>
-											<p>Phasellus laoreet massa id justo mattis pharetra. Fusce suscipit
-											ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris
-											sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada
-											in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat
-											consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
 											in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat
 											magna tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros
 											consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
@@ -233,9 +88,50 @@
 											at erat lorem ipsum dolor sit amet lorem ipsum sed consequat magna
 											tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros consequat
 											magna tempus</p>
-											<ul class="actions">
-												<li><a href="#" class="button icon fa-file">Continue Reading</a></li>
-											</ul>
+											<p>Phasellus laoreet massa id justo mattis pharetra. Fusce suscipit
+											ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris
+											sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada
+											in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat
+											consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
+											in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat
+											magna tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros
+											consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
+											justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet
+											mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique.
+											Curabitur leo nibh, rutrum eu malesuada in, tristique at erat.</p>
+											<h3>Accumsan lorem ipsum veroeros</h3>
+											<p>Consequat Phasellus laoreet massa id in, tristique at erat lorem
+											ipsum dolor sit amet lorem ipsum sed consequat magna tempus veroeros
+											consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
+											justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet
+											mollis tortor congue. Sed quis mauris sit amet magna.</p>
+											<p>Phasellus laoreet massa id justo mattis pharetra. Fusce suscipit
+											ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris
+											sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada
+											in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat
+											consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
+											in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat
+											magna tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros
+											consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
+											justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet
+											mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique.
+											Curabitur leo nibh, rutrum eu malesuada in, tristique at erat.</p>
+											<h3>Ligula suspcipit fusce veroeros</h3>
+											<p>Nullam dolore etiam sed massa id in, tristique at erat lorem
+											ipsum dolor sit amet lorem ipsum sed consequat magna tempus veroeros
+											consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
+											justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet
+											mollis tortor congue. Sed quis mauris sit amet magna.</p>
+											<p>Sed massa id justo mattis pharetra. Fusce suscipit
+											ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris
+											sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada
+											in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat
+											consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
+											in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat
+											magna tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros
+											consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
+											justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet
+											mollis tortor congue. Sed quis mauris sit amet magna accumsan.</p>
 										</article>
 
 								</div>
@@ -369,38 +265,38 @@
 							</div>
 							<div class="6u 12u(mobile)">
 								<section>
-									<p>Ahe'ee, Thanks for visiting my personal website, please leave a message
-									or comment, and I'll respond back to you in a timely manner. I may also
-									be contacted by my cell phone, email, and social media. Have a nice day! </p>
+									<p>Erat lorem ipsum veroeros consequat magna tempus lorem ipsum consequat Phaselamet
+									mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique. Curabitur
+									leo nibh, rutrum eu malesuada.</p>
 									<div class="row">
 										<div class="6u 12u(mobile)">
 											<ul class="icons">
 												<li class="icon fa-home">
-													1234 Some Rez Road<br />
-													Bluff, UT 84512<br />
+													1234 Somewhere Road<br />
+													Nashville, TN 00000<br />
 													USA
 												</li>
 												<li class="icon fa-phone">
-													(435) 485-0727
+													(000) 000-0000
 												</li>
 												<li class="icon fa-envelope">
-													<a href="#">LamemanAarick@gmail.com</a>
+													<a href="#">info@untitled.tld</a>
 												</li>
 											</ul>
 										</div>
 										<div class="6u 12u(mobile)">
 											<ul class="icons">
 												<li class="icon fa-twitter">
-													<a href="#">@AarickL3</a>
+													<a href="#">@untitled-tld</a>
 												</li>
 												<li class="icon fa-instagram">
-													<a href="#">instagram.com/aaricklb</a>
+													<a href="#">instagram.com/untitled-tld</a>
 												</li>
-												<li class="icon fa-github">
-													<a href="#">github.com/AarickL</a>
+												<li class="icon fa-dribbble">
+													<a href="#">dribbble.com/untitled-tld</a>
 												</li>
 												<li class="icon fa-facebook">
-													<a href="#">facebook.com/Aarick.11727701</a>
+													<a href="#">facebook.com/untitled-tld</a>
 												</li>
 											</ul>
 										</div>
@@ -411,8 +307,7 @@
 					</div>
 					<div id="copyright" class="container">
 						<ul class="links">
-							<li> Aarick Jaymes &copy; 2016 All rights reserved.</li>
-
+							<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 						</ul>
 					</div>
 				</div>
