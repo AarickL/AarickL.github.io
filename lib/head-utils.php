@@ -1,7 +1,3 @@
-<meta charset="utf-8">
-
-<title>Aarick Jaymes</title>
-
 <!-- Bootstrap - Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"
       integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ=="
@@ -13,13 +9,13 @@
         crossorigin="anonymous"></script>
 
 <!--jQuery cdn-->
-<script   src="https://code.jquery.com/jquery-2.2.3.min.js"
+<script src="https://code.jquery.com/jquery-2.2.3.min.js"
           integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo="
           crossorigin="anonymous"></script>
 
 <!-- Custom CSS -->
-<link href="lib/css/style.css" rel="stylesheet">
-<link type="text/css" href="css/style.css" rel="stylesheet"/>
+<!-- <link href="lib/css/style.css" rel="stylesheet">
+<link type="text/css" href="css/style.css" rel="stylesheet"/> -->
 
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
